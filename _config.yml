@@ -99,7 +99,7 @@ analytics:
 # Site Author
 author:
   name             : "Con DDD"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Projects portfolio."
   location         : "Dublin"
   email            :
